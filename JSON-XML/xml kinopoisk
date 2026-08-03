@@ -1,0 +1,100 @@
+<Kinopoisk_main_page>
+	<Catalog>
+		<Film_genre>
+			<Genre id="kc101">
+				<Comedy>
+					<Name>Home alone</Name>
+					<Duration>103 min</Duration>
+					<Producer>USA</Producer>
+					<Name>Ivan Vasilyevich changes his profession</Name>
+					<Duration>88 min</Duration>
+					<Producer>USSR</Producer>
+					<Name>Operation "Y" and other adventures of Shurik</Name>
+					<Duration>95 min</Duration>
+					<Producer>USSR</Producer>
+					<Name>Gentlemen of Fortune</Name>
+					<Duration>84 min</Duration>
+					<Producer>USSR</Producer>
+					<Name>Diamond Hand</Name>
+					<Duration>94 min</Duration>
+					<Producer>USSR</Producer>
+				</Comedy>
+			</Genre>
+			<Genre id="kc102">
+				<Horror>
+					<Name>The Walking Dead</Name>
+					<Duration>43 min</Duration>
+					<Producer>USA</Producer>
+					<Name>Stranger Things</Name>
+					<Duration>51 min</Duration>
+					<Producer>USA</Producer>
+					<Name>It</Name>
+					<Duration>135 min</Duration>
+					<Producer>USA</Producer>
+					<Name>Busanhaeng</Name>
+					<Duration>118 min</Duration>
+					<Producer>Korea South</Producer>
+					<Name>Zombieland</Name>
+					<Duration>84 min</Duration>
+					<Producer>USA</Producer>
+				</Horror>
+			</Genre>
+			<Genre id="kc103">
+				<Thriller>
+					<Name>Shutter Island</Name>
+					<Duration>138 min</Duration>
+					<Producer>USA</Producer>
+					<Name>Fight Club</Name>
+					<Duration>139 min</Duration>
+					<Producer>USA</Producer>
+					<Name>Limitless</Name>
+					<Duration>105 min</Duration>
+					<Producer>USA</Producer>
+					<Name>The Prestige</Name>
+					<Duration>125 min</Duration>
+					<Producer>USA</Producer>
+					<Name>Gone Girl</Name>
+					<Duration>149 min</Duration>
+					<Producer>USA</Producer>
+				</Thriller>
+			</Genre>
+			<Genre id="kc104">
+				<Melodrama>
+					<Name>Love and Pigeons</Name>
+					<Duration>107 min</Duration>
+					<Producer>USSR</Producer>
+					<Name>Titanic</Name>
+					<Duration>194 min</Duration>
+					<Producer>USA</Producer>
+					<Name>Moscow does not believe in tears</Name>
+					<Duration>150 min</Duration>
+					<Producer>USSR</Producer>
+					<Name>Girls</Name>
+					<Duration>92 min</Duration>
+					<Producer>USSR</Producer>
+					<Name>Office Romance</Name>
+					<Duration>159 min</Duration>
+					<Producer>USSR</Producer>
+				</Melodrama>
+			</Genre>
+			<Genre id="kc105">
+				<Detectives>
+					<Name>Knives Out</Name>
+					<Duration>130 min</Duration>
+					<Producer>USA</Producer>
+					<Name>Sherlock</Name>
+					<Duration>90 min</Duration>
+					<Producer>USA</Producer>
+					<Name>Boîte noire</Name>
+					<Duration>129 min</Duration>
+					<Producer>France</Producer>
+					<Name>The Sixth Sense</Name>
+					<Duration>107 min</Duration>
+					<Producer>USA</Producer>
+					<Name>True Detective</Name>
+					<Duration>60 min</Duration>
+					<Producer>USA</Producer>
+				</Detectives>
+			</Genre>
+		</Film_genre>
+	</Catalog>    
