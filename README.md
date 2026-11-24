@@ -1,8 +1,8 @@
 # Studying
 
-Объединённый архив учебных репозиториев с GitHub-аккаунта [AnnShchuga](https://github.com/AnnShchuga). Каждая папка — это отдельный репозиторий, перенесённый как есть (без истории коммитов).
+Archived coursework (2023–2024): A/B testing, statistics, SQL, Python for analysts GitHub-account [AnnShchuga](https://github.com/AnnShchuga). Each folder is a separate repository, migrated as is (without commit history).
 
-## Содержимое
+## Content
 
 - [A-B-tests](./A-B-tests)
 - [Final_attestation](./Final_attestation)
@@ -21,4 +21,4 @@
 - [HW11](./HW11)
 - [Python](./Python)
 
-Исходные репозитории заархивированы на GitHub.
+The source repositories are archived on GitHub.
