@@ -1,6 +1,12 @@
-# Studying
+# Coursework Archive
 
-Archived coursework (2023–2024): A/B testing, statistics, SQL, Python for analysts GitHub-account [AnnShchuga](https://github.com/AnnShchuga). Each folder is a separate repository, migrated as is (without commit history).
+Archived coursework from analytics courses (2023–2024), moved as-is.
+
+- **Python basics** — early exercises (phone book, tic-tac-toe, pandas merge practice): `HW5`–`HW11`, `Python`, `Python-for-Analysts`
+- - [HW5](./HW5), [HW7](./HW7), [HW8](./HW8), [HW9](./HW9), [HW10](./HW10), [HW11](./HW11) — early exercises (phone book, tic-tac-toe, pandas merge practice)
+- **SQL, statistics, A/B testing** — `SQL`, `A-B-tests`, `Probability-theory-and-mathematical-statistics`
+- **Other stacks** (not related to analytics): `PHP-MySQL`, `JSON-XML`
+
 
 ## Content
 
